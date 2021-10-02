@@ -1,0 +1,14 @@
+{
+  "name": "threejs-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GidroAltar",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.133.0"
+  },
+  "description": "Simple threeJs project",
+  "scripts": {
+    "start": "parcel index.js"
+  }
+}
